@@ -1,0 +1,14 @@
+    html{
+        color: #080808;
+        scroll-behavior: smooth;
+    }
+    
+    .animacao{
+        color: red;
+        display: flex;
+        justify-content: end;
+        align-items: baseline;
+        padding: 30px;
+        height: 150px;
+        width: 100px;
+    }
